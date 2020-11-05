@@ -1,29 +1,12 @@
 ## Welcome to Climate Informatics
 
-You can use the [editor on GitHub](https://github.com/geo-yrao/climate-info-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is climate informatics?
 
 ```markdown
-Syntax highlighted code block
+Climate informatics broadly refers to any research combining climate science with approaches from statistics, machine learning and data mining.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Through the annual workshop series and through this webpage we seek to bring together researchers from all of these areas. We hope to stimulate discussion of new ideas, foster new collaborations, grow the climate informatics community, and thus accelerate discovery across disciplinary boundaries.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
