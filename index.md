@@ -3,13 +3,12 @@
 
 ### What is climate informatics?
 
-```markdown
 Climate informatics broadly refers to any research combining climate science with approaches from statistics, 
 machine learning and data mining. Through the annual conference series and through this webpage we seek to 
 bring together researchers from all of these areas. We hope to stimulate discussion of new ideas, foster 
 new collaborations, grow the climate informatics community, and thus accelerate discovery across 
 disciplinary boundaries.
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
