@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Climate Informatics
 
 You can use the [editor on GitHub](https://github.com/geo-yrao/climate-info-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
