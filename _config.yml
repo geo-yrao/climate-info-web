@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 
 title: Climate Informatics (Test)
 description: This is a test site for Climate Informatics website revamping.
-logo: [Climate Informatics](https://github.com/geo-yrao/climate-info-web/blob/main/CI_logo_med_3.png)
+logo: "https://github.com/geo-yrao/climate-info-web/blob/main/CI_logo_med_3.png"
